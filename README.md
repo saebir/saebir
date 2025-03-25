@@ -1,16 +1,17 @@
-## Hi there 👋
+Hej, jeg hedder Sædis og her inde vil jeg have alle de produkter jeg laver under 4 semester sammlet:
 
-<!--
-**saebir/saebir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mine Projekter
+Inde under alle mine produkter vil der være en fremgangsmåde i README, til hvordan man får gang i produktet. 
 
-Here are some ideas to get you started:
+## To Do App
+En meget simpel To Do liste App.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+()
+
+##  Første Login App med Expo
+
+Et simpelt login-system lavet i React Native og Expo.
+
+ ([https://github.com/saebir/F-rste-Login](https://github.com/saebir/F-rste-Login/tree/main))
+
+ ## 
