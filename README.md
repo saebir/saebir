@@ -15,3 +15,9 @@ En meget simpel To Do liste App.
 ##  Første Login App med Expo  
 Et simpelt login-system lavet i React Native og Expo.  
 🔗 [https://github.com/saebir/F-rste-Login](https://github.com/saebir/F-rste-Login)
+
+---
+
+##  Playground App
+En lille app med forskellige designs osv.  
+🔗 [https://github.com/saebir/Playground](https://github.com/saebir/Playground)
