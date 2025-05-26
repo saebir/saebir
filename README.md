@@ -28,3 +28,9 @@ En lille app med forskellige designs osv.
 Det første forsøg på app til Rock under Broen.  
 🔗 [https://github.com/saebir/GammelRUB.git](https://github.com/saebir/GammelRUB.git)
 
+---
+## Test RUB - Emulator test
+Afprøvede EAS Build og Dev Client for første gang.  
+🔗 [https://github.com/saebir/Test-EAS-RUB](https://github.com/saebir/Test-EAS-RUB)
+
+
