@@ -33,4 +33,8 @@ Det første forsøg på app til Rock under Broen.
 Afprøvede EAS Build og Dev Client for første gang.  
 🔗 [https://github.com/saebir/Test-EAS-RUB](https://github.com/saebir/Test-EAS-RUB)
 
+---
+## Pantrypal med sikkerhed
+Prøvede at lave en sikker hjemmeside.  
+🔗 [https://github.com/saebir/pantrypal.git](https://github.com/saebir/pantrypal.git)
 
